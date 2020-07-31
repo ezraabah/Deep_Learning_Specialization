@@ -1,2 +1,2 @@
-# Python-daily-exercises
-A compilation of exercises done to improve computational thinking and python profeciency
+# Deep Learning Specialization
+This repository contains work done while completing deep learning specialization, Taught be Andrew Ng. The programme includes five courses during which I learnt the foundations of Deep Learning, understood how to build neural networks, and learnt how to lead successful machine learning projects. I learnt about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. 
